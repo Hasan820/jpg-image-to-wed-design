@@ -1,0 +1,79 @@
+*{margin:0;padding:0;outline:0;}
+body{font-family:arial;font-size:15px;line-height:18px;color:#333;background:#ece9d8;}
+.templete{width:960px;margin:0 auto;}
+.clear{overflow:hidden;}
+.headersection{height:80px;}
+.header{background:#333;}
+.headerleft{width:450px;color:#fff;float:left;}
+.headerleft h2 {
+    font-size: 40px;
+    line-height: 65px;
+	padding-left:50px;
+}
+.headerright{width:510px;float:right;color:#fff;padding-top:28px;}
+.headerright a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+	font-weight: bold;
+}
+.headerright a:hover,#active{color:#00adef;}
+.mainsection{background:#ffff;}
+.slogansection{margin-left:50px;margin-right:50px;margin-top:30px;padding-bottom:28px;border-bottom:2px dotted #a8a8a8;}
+.slogansection h2{color:#000;font-size:45px;line-height:55px;}
+.slogansection h3{color:#a8a8a8;font-size:35px;line-height:35px;}
+.description{margin:50px;padding-bottom:30px;font-size:26px;line-height:30px;color:#666;border-bottom:2px dotted #a8a8a8; }
+.description p{}
+.contentsection{margin-bottom:20px;padding-bottom:20px;}
+.service{background:#00adef;margin-left:52px;width:212px;padding:20px;float:left;margin-bottom:50px;box-shadow:3px 3px 0 0 #cfcfcf;}
+.service h2{color:#fff;border-bottom:1px dotted #fff;padding-bottom:15px;margin-bottom:15px;font-size:28px;text-align:center;}
+.service p{color:#fff;font-size:16px;line-height:22px;text-align:center;}
+.Readmore{background:#0076a4;text-align:center;padding:10px;margin-top:20px;}
+.Readmore a{color:#ddd;font-size:15px;font-weight:bold;text-decoration:none;text-transform:uppercase;}
+.Readmore a:hover{}
+.mainbottom{border-bottom: 2px dotted #ccc;border-top: 2px dotted #ccc;margin:30px 50px 3px;padding-bottom: 30px;padding-top: 30px;}
+.clientsection{width:398px;float:left;border-right:2px dotted #ccc;margin-right:30px;padding-right:30px;}
+.clientsection h2{font-size:25px;color:#666;line-height:30px;}
+.testimonial{margin-top:20px;}
+.clientimage{float:left;margin-right:20px;width:80px;}
+.clientimage img {
+    height: 93px;
+    width: 93px;
+}
+.clientdesc{float:left;width:298px;}
+.clientdesc p{color:#666;}
+.clientdesc a{text-decoration:none;color:#00adef;}
+.clientname{font-weight:bold;margin-top:8px;}
+.projectsection{width:490px;float:right;}
+.projectsection h2{font-size:25px;color:#666;line-height:30px;}
+.projectsection h3{color:#999;margin-bottom:8px;margin-top:5px;}
+.projectsection p {
+    font-size: 15px;
+    margin-bottom: 6px;
+}
+.projectsection a {
+    text-decoration: none;
+	color:#00adef;
+	font-size:20px;
+}
+.projectsection img{width:398px;height:150px;border:1px solid #333;border-radius:5px;margin-bottom:5px;}
+.footersection{}
+.footersection p {
+    margin-left: 50px;
+    margin-bottom: 35px;
+    color: #999;
+}
+.footersection p:hover{color:red;}
+
+
+
+
+
+
+
+
+
+
+
+
+
